@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+h1{
+	color: red;
+}
+
+.myFonts{
+	font-size: 20px;
+	font-family: Consolas;
+}
+
+.myButton{
+	
+	color: white;
+	background-color: blue;
+	border: 2px solid darkblue;
+	font-size: 24px;
+	padding: 10px 10px 10px 10px;
+	transition-duration:0.5s;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.myButton:hover{
+	background-color: darkblue;
+	color:black;
+}
+
